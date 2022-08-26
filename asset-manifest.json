@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meetupadhyay25/TextUtils-React.git/static/css/main.fb3cf585.css",
+    "main.js": "/meetupadhyay25/TextUtils-React.git/static/js/main.e934b969.js",
+    "static/js/787.719ec76d.chunk.js": "/meetupadhyay25/TextUtils-React.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/meetupadhyay25/TextUtils-React.git/index.html",
+    "main.fb3cf585.css.map": "/meetupadhyay25/TextUtils-React.git/static/css/main.fb3cf585.css.map",
+    "main.e934b969.js.map": "/meetupadhyay25/TextUtils-React.git/static/js/main.e934b969.js.map",
+    "787.719ec76d.chunk.js.map": "/meetupadhyay25/TextUtils-React.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3cf585.css",
+    "static/js/main.e934b969.js"
+  ]
+}
